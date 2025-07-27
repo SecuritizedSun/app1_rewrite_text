@@ -32,7 +32,7 @@ template = """
     TONE: {tone}
     DIALECT: {dialect}
 
-    YOUR {dialect} RESPONSE:
+    Here is YOUR {dialect} RESPONSE:
 """
 
 #PromptTemplate variables definition
